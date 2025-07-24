@@ -1,0 +1,14 @@
+# TensorFlow (CPU version; change to tensorflow-gpu if you plan to use GPU)
+tensorflow>=2.16.1
+
+# Jupyter Notebook for running interactive notebooks
+notebook
+
+# NumPy for numerical operations
+numpy
+
+# Matplotlib for plotting and visualization
+matplotlib
+
+# Optionally, pandas if you plan to work with dataframes
+pandas
