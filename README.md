@@ -69,7 +69,15 @@ This project is licensed under the [MIT License](./LICENSE)
 
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Hasanul-Banna-Himel/tensorflow_fundamentals\&type=Date)](https://www.star-history.com/#Hasanul-Banna-Himel/tensorflow_fundamentals&Date)
+## Star History
+
+<a href="https://www.star-history.com/#Hasanul-Banna-Himel/tensorflow_fundamentals&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Hasanul-Banna-Himel/tensorflow_fundamentals&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Hasanul-Banna-Himel/tensorflow_fundamentals&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Hasanul-Banna-Himel/tensorflow_fundamentals&type=Date" />
+ </picture>
+</a>
 
 > **Keywords**: AI, Machine Learning, Deep Learning, TensorFlow, Generative AI, LLMs, AI Agents
 
